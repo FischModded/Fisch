@@ -1,1 +1,1 @@
-⚠️ Testing Mode ⚠️
+1execute|print('Hello World')
