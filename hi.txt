@@ -1,0 +1,4 @@
+if game.GameId ~= 6860867628 then
+  -- Sigma detected....
+  delay(5, function() end)
+end
